@@ -1,0 +1,13 @@
+<h1>Formulaires</h1>
+
+
+<form action="./create" method= "POST">
+<input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+  Name:<br>
+  <input type="input" name="name" placeholder="My name">
+  <br>
+  Bio:<br>
+  <textarea name="bio" placeholder="Ma bio :"></textarea>
+  <br><br>
+  <input type="submit" value="Submit">
+</form> 
