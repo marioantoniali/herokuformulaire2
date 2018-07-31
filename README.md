@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Heroku-- Formulaire 2 -- lundi
 
-Things you may want to cover:
+Seconde appli pour la forme
 
-* Ruby version
 
-* System dependencies
+Voici le link vers [l'application sur Heroku][heroku] 
 
-* Configuration
 
-* Database creation
+**Colaborateurs**
+**From Lyon to the World: Mario, Carlos, Fabrice**
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[heroku]: https://formulaire-deux-folie.herokuapp.com/
